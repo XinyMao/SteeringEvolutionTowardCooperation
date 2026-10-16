@@ -1,5 +1,5 @@
-# PositionalSteeringCooperation
-Code for paper "Positional Steering Reshapes Cooperation on Networks"
+# SteeringCooperationTowardCooperation
+Code for paper "Steering Evolution Toward Cooperation Despite Unfavorable Selection"
 
 The repository contains:
 
