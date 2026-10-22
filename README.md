@@ -1,4 +1,4 @@
-# SteeringCooperationTowardCooperation
+# SteeringEvolutionTowardCooperation
 Code for paper "Steering Evolution Toward Cooperation Despite Unfavorable Selection"
 
 The repository contains:
